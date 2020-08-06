@@ -1,6 +1,0 @@
-{
-  "name": "trading",
-  "version": "0.0.0",
-  "private": true,
-  "main": "./TradingContainer.js"
-}

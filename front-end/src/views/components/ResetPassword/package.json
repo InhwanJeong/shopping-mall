@@ -1,6 +1,0 @@
-{
-  "name": "reset-password",
-  "version": "0.0.0",
-  "private": true,
-  "main": "./ResetPassword.jsx"
-}

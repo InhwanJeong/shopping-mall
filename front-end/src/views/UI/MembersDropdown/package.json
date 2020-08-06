@@ -1,6 +1,0 @@
-{
-  "name": "members-dropdown",
-  "version": "0.0.0",
-  "private": true,
-  "main": "./MembersDropdown.jsx"
-}

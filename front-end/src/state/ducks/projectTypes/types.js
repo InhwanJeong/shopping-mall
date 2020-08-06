@@ -1,1 +1,0 @@
-export const GET_PROJECT_TYPES = "GET_PROJECT_TYPES";
